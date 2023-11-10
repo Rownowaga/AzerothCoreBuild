@@ -20,3 +20,4 @@ vmap4_extractor.exe
 
 Crashes/*
 configs/*.dist
+Data/sql/archive
